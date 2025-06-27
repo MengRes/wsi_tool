@@ -4,12 +4,12 @@
 /test_patch
 /test_wsi
 
-# Python缓存文件
+# Python cache files
 __pycache__/
 *.py[cod]
 *$py.class
 
-# Python编译文件
+# Python compiled files
 *.so
 *.egg
 *.egg-info/
@@ -25,14 +25,14 @@ develop-eggs/
 lib/
 lib64/
 
-# 虚拟环境
+# Virtual environments
 venv/
 env/
 ENV/
 .venv/
 .env/
 
-# IDE文件
+# IDE files
 .vscode/
 .idea/
 *.swp
@@ -42,11 +42,11 @@ ENV/
 # Jupyter Notebook
 .ipynb_checkpoints/
 
-# 临时文件
+# Temporary files
 *.tmp
 *.temp
 *.log
 
-# 系统文件
+# System files
 .DS_Store
 Thumbs.db
